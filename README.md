@@ -6,7 +6,8 @@ The purpose of this project is to perform an analysis on Citi Bike's bike trip d
 
 ## Results 
 The visualizations are based on Citi Bike trips for the month of August 2019 because there is likely more trips recorded in the summer months.
-[Tableau visualizations can be accessed here] (https://public.tableau.com/views/NYC_CitiBike_Challenge_16229392104160/CheckoutTimesbyGender?:language=en-US&:display_count=n&:origin=viz_share_link)
+Tableau visualizations can be accessed here: 
+[Click here](https://public.tableau.com/views/NYC_CitiBike_Challenge_16229392104160/CheckoutTimesbyGender?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 ### Visualization 1: Checkout Times by User
@@ -47,13 +48,15 @@ The image above shows which bikes have the highest utilization based on the tota
 
 ## Summary 
 The results have shown that based on New York City's trip data:
--- Most trip times are under an hour
--- The majority of subscribers use the bikes on weekdays at peak working hours such as 8AM or 5-6PM. 
--- The majority of customers use the bikes on weekends in the afternoon
--- The majority of users are male, females have similiar trip activity as males, however unknown gender types have different trip activity.  
--- Younger users utilize the bikes for longer times
--- The majority of bikes are utilized at similiar frequencies
+
+- Most trip times are under an hour
+- The majority of subscribers use the bikes on weekdays at peak working hours such as 8AM or 5-6PM. 
+- The majority of customers use the bikes on weekends in the afternoon
+- The majority of users are male, females have similiar trip activity as males, however unknown gender types have different trip activity.  
+- Younger users utilize the bikes for longer times
+- The majority of bikes are utilized at similiar frequencies
 
 For further analysis, two additional visualizations could help provide more insight:
--- A visualization that shows user trips by birth year to provide more demographic insight and compare it to Des Moines' residents 
--- A visualization that shows bike utilization on a map to determine what factors contribute to the higher utilization 
+
+- A visualization that shows user trips by birth year to provide more demographic insight and compare it to Des Moines' residents 
+- A visualization that shows bike utilization on a map to determine what factors contribute to the higher utilization 
